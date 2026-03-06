@@ -1,16 +1,49 @@
-# My Portfolio Wesbite - Overview 🚀
+# Sayak Biswas - Web Developer & Designer Portfolio
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Welcome to the source code for my personal interactive portfolio! This immersive, 3D-enabled webpage was built from the ground up to showcase my skills in scalable architecture, creative coding, and modern web design.
 
-## Instructions 🛠️
+## 🚀 Live Demo
+*(Insert Live Production Link Here)*
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+## 🛠️ Built With
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+*   **React (v18)** - Component-based UI library
+*   **Vite** - Next-generation, lightning-fast frontend tooling
+*   **TypeScript** - For type safety and scalable code management
+*   **Three.js & React Three Fiber** - Fueling the 3D environments, custom shaders, and interactive physics (via Rapier)
+*   **GSAP / ScrollSmoother** - For high-performance, butter-smooth scroll animations and timeline staging
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+## ✨ Features
 
-## License
+*   **Interactive 3D Elements:** Engaging "Tech Stack" environment physics using React Three Fiber.
+*   **Custom Scroll Physics:** Highly-optimized pinning and horizontal scrolling using GSAP's ScrollTrigger.
+*   **Responsive Design:** Hand-crafted CSS layout systems catering to all screen sizes without relying on heavy UI frameworks.
 
-This project is open source and available under the [MIT License](LICENSE).
+## 💻 Running Locally
+
+To get a local copy up and running, follow these simple steps:
+
+1.  **Clone the repo**
+    ```sh
+    git clone https://github.com/codeandpromote/your-repo-name.git
+    ```
+2.  **Install NPM packages**
+    ```sh
+    npm install
+    # Note: If the '@gsap/react' package fails via private registry, remove 'package-lock.json' and reinstall.
+    ```
+3.  **Start the development server**
+    ```sh
+    npm run dev
+    ```
+
+## 🌐 Connect with Me
+
+*   **LinkedIn:** [linkedin.com/in/sayak-biswas](https://in.linkedin.com/in/sayak-biswas)
+*   **Instagram:** [@sayakbiswasofficial](https://www.instagram.com/sayakbiswasofficial/)
+*   **GitHub:** [@codeandpromote](https://github.com/codeandpromote)
+*   **Email:** work.sayak@gmail.com
+
+---
+
+Designed and Developed with ❤️ by Sayak Biswas.
